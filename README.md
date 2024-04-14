@@ -2,7 +2,7 @@
 
 ### About Me
 
-I currently study IT-Systems Engineering in the Master's program at [HPI](https://hpi.de).
+I am a PhD student with the [Operating Systems and Middleware](https://osm.hpi.de) group at [HPI](https://hpi.de).
 
 You can find out more about me on my website: https://tiedt.dev
 
@@ -10,7 +10,7 @@ You can find out more about me on my website: https://tiedt.dev
 
 - Operating Systems
 - Embedded Systems
-- Mobile Development
+- Programming Language Development
 
 <!--
 **ctiedt/ctiedt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
